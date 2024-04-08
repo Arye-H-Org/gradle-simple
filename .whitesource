@@ -1,23 +1,3 @@
 {
-  "scanSettings": {
-    "configMode": "AUTO",
-    "configExternalURL": "",
-    "projectToken": "",
-    "baseBranches": [],
-    "javaVersion": "17"
-  },
-  "checkRunSettings": {
-    "vulnerableCheckRunConclusionLevel": "failure",
-    "displayMode": "diff",
-    "useMendCheckNames": true
-  },
-  "issueSettings": {
-    "minSeverityLevel": "LOW",
-    "issueType": "DEPENDENCY"
-  },
-  "remediateSettings": {
-    "workflowRules": {
-      "enabled": true
-    }
-  }
+  "settingsInheritedFrom": "Arye-H-Org/whitesource-config@main"
 }
